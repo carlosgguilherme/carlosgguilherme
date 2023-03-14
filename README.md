@@ -1,5 +1,5 @@
 # 💫 About Me:
->Currently interning as a web developer<br>>currently studying PHP/Javascript/NodeJS
+Currently interning as a web developer<br>:books: :currently studying PHP/Javascript/NodeJS
 
 
 ## 🌐 Socials:
