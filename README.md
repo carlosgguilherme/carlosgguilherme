@@ -1,5 +1,5 @@
 # 💫 About Me:
-:student: :Currently interning as a web developer<br>:books: :currently studying PHP/Javascript/NodeJS/TypeScript/POSTGRESQL/Typeorm/React
+:student: :Currently interning as a web developer<br>:books: :currently studying PHP/Javascript/NodeJS/TypeScript/POSTGRESQL/Typeorm/React<br>:file_cabinet: I'm currently working with web development, using the laravel framework and php as my main stack, I also work in support and maintenance of systems based on the same stacks that I'm studying.
 
 
 ## 🌐 Socials:
